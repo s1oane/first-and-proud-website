@@ -8,7 +8,7 @@ function Lander() {
                     <br />Students
                 </h2>
                 <div className="line rose-bg"></div>
-                <button className="inria-sans small-font">LEARN MORE</button>
+                
             </section>
             <figure id="lander-img-wrap">
                 <img src="/images/gradcap.png" id="lander-image" alt="Graduation cap" className="lander-img" width="100%" />
@@ -42,7 +42,7 @@ function Contact() {
                 <ul className="inria-sans mustard-text large-font">
                     <li className="flex-parent contact-item">
                         <img src="./images/icons/email.png" alt="Gmail logo" width="80" height="60" />
-                        <p>PLACEHOLDER@GMAIL.COM</p>
+                        <p>LWHSFIRSTANDPROUD@GMAIL.COM</p>
                     </li>
                     <li className="flex-parent contact-item">
                         <img src="./images/icons/insta.png" alt="Instagram logo" width="80" height="80" />
