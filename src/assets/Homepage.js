@@ -2,7 +2,7 @@ function Lander() {
     return (
         <article className="flex-parent" id="lander-section">
             <section className="med-padding">
-                <h2 className="bree-serif black-text xlarge-font">
+                <h2 id="lander-title" className="istok-web black-text xlarge-font">
                     Supporting<br />
                     <span className="mustard-text">First Gen</span>
                     <br />Students
@@ -20,7 +20,7 @@ function Lander() {
 function Information() {
     return (
         <article className="flex-parent" id="info-section">
-            <div className="bg-square peach-bg" style={{ top: "950px" }}></div>
+            <div className="bg-square peach-bg" style={{ top: "1000px" }}></div>
             <figure>
                 <img className="small-img" src="./images/members.jpg" alt="Members of First and Proud club" width="100%" height="500" />
             </figure>
